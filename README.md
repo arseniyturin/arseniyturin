@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on developing small web-services with Python and Flask
 - 🌱 I’m currently learning concurrency in Python
-- 🤔 I’m looking for help with data-science related questions
 - 📫 How to reach me: arseniy.ny@gmail.com
 
 <!--
