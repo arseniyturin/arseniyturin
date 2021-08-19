@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing small web-services with Python and Flask
+- 🔭 I’m currently working on developing Twitter App for Topic Modeling and User Segmentation
 - 🌱 I’m currently learning concurrency in Python
 - 📫 How to reach me: arseniy.ny@gmail.com
 
