@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing Twitter App for Topic Modeling and User Segmentation
+- 🔭 I’m currently working on developing Twitter App for Topic Modeling with and User Segmentation
 - 🌱 I’m currently learning concurrency in Python
 - 📫 How to reach me: arseniy.ny@gmail.com
+
+
+`python`, `sql`, `sklearn`, `numpy`, `pandas`, `matplotlib`, `tensorflow`, `nltk`, `gensim`, `spacy`
 
 <!--
 **arseniyturin/arseniyturin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
