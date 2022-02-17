@@ -14,6 +14,14 @@ One awesome WebSockets project:
 
 - <a target="_blank" href="https://github.com/arseniyturin/python-websocket">WebSocket server from scratch</a>
 
+ML From Scratch:
+
+- <a target="_blank" href="https://github.com/arseniyturin/Logistic-Regression">Logistic Regression</a>
+- <a target="_blank" href="https://github.com/arseniyturin/SGD-From-Scratch">Gradient Descend</a>
+- <a target="_blank" href="https://github.com/arseniyturin/Neural-Network-From-Scratch">Neural Network</a>
+- <a target="_blank" href="https://github.com/arseniyturin/knn_from_scratch">k-Nearest Neighboor</a>
+- <a target="_blank" href="https://github.com/arseniyturin/kmeans_from_scratch">k-Means Clustering</a>
+
 `python`, `sql`, `sklearn`, `numpy`, `pandas`, `matplotlib`, `tensorflow`, `nltk`, `gensim`, `spacy`
 
 <!--
