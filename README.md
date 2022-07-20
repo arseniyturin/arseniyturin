@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing Twitter App for Topic Modeling with and User Segmentation
-- 🌱 I’m currently learning concurrency in Python
 - 📫 How to reach me: arseniy.ny@gmail.com
 
 Few NLP projects:
