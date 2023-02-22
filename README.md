@@ -20,8 +20,6 @@ ML From Scratch:
 - <a target="_blank" href="https://github.com/arseniyturin/knn_from_scratch">k-Nearest Neighboor</a>
 - <a target="_blank" href="https://github.com/arseniyturin/kmeans_from_scratch">k-Means Clustering</a>
 
-`python`, `sql`, `sklearn`, `numpy`, `pandas`, `matplotlib`, `tensorflow`, `nltk`, `gensim`, `spacy`
-
 <!--
 **arseniyturin/arseniyturin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
